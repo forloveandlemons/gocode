@@ -1,0 +1,5 @@
+package: stock_analysis_api
+import:
+- package: go.uber.org/fx
+  version: ^1
+- package: github.com/gocql/gocql.git
